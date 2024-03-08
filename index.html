@@ -7,12 +7,19 @@
       name="description"
       content="Bicicletas elétricas de alta precisão e qualidade,  feitas sob medida para o cliente. Explore o mundo na sua velocidade com a Bikcraft."
     />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600family=Roboto:wght@400;500&display=swap"
+      rel="stylesheet"
+    />
     <link rel="stylesheet" href="./css/style.css" />
     <link rel="shortcut icon" href="./img/favicon.svg" type="image/x-icon" />
     <title>Bikcraft - Bicicletas Elétricas</title>
   </head>
 
   <body>
+    <!--  HEADER -->
     <header class="header-bg">
       <div class="header">
         <a class="logo" href="./">
@@ -21,7 +28,9 @@
         <nav aria-label="primaria">
           <ul class="header-menu">
             <li>
-              <a class="header-bicicletas" href="./bicicletas.html">Bicicletas</a>
+              <a class="header-bicicletas" href="./bicicletas.html"
+                >Bicicletas</a
+              >
             </li>
             <li><a class="header-seguros" href="./seguros.html">Seguros</a></li>
             <li><a class="header-contato" href="./contato.html">Contato</a></li>
@@ -29,5 +38,27 @@
         </nav>
       </div>
     </header>
+
+    <!-- INTRODUCAO -->
+    <main class="introducao-bg">
+      <div class="introducao">
+        <div class="introducao-conteudo">
+          <h1 class="introducao-title">
+            Bicicletas feitas sob medida<span style="color: #ffbb00">.</span>
+          </h1>
+          <p class="introducao-desc">
+            Bicicletas elétricas de alta precisão e qualidade, feitas sob medida
+            para o cliente. Explore o mundo na sua velocidade com a Bikcraft.
+          </p>
+          <a class="introducao-btn btn" type="button">SELECIONE A SUA</a>
+        </div>
+        <div>
+          <img
+            src="./img/fotos/introducao.jpg"
+            alt="Bicicleta Elétrica Nimbuns Stark"
+          />
+        </div>
+      </div>
+    </main>
   </body>
 </html>
