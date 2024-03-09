@@ -3,16 +3,11 @@
 }
 
 .header {
-  max-width: 1200px;
-  margin: 0 auto;
-  font-family: "Poppins";
-
   display: flex;
   flex-wrap: wrap;
   gap: 20px;
   justify-content: space-between;
   align-items: center;
-  padding: 20px;
 }
 
 .header-menu {

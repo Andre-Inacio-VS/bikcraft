@@ -4,10 +4,6 @@
 }
 
 .introducao {
-  max-width: 1200px;
-  padding: 0 20px;
-  box-sizing: border-box;
-  margin: 0 auto;
   display: grid;
   grid-template-columns: 1fr 1fr;
   gap: 0 40px;
