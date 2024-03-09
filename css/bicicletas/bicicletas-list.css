@@ -6,6 +6,10 @@
   margin-bottom: 40px;
 }
 
+.bicicletas-galeria {
+  overflow-x: auto;
+}
+
 .bicicletas-lista ul {
   padding: 0 20px 20px 20px;
   max-width: 1400px;
@@ -13,7 +17,6 @@
   box-sizing: border-box;
   display: flex;
   gap: 40px;
-  overflow-x: auto;
 }
 
 .bicicletas-lista li {
@@ -58,6 +61,13 @@
 
 .bicicletas-lista li span {
   padding-left: 16px;
+}
+
+@media (max-width: 960px) {
+  .bicicletas-lista ul:hover > li:not(:hover) {
+    filter: none;
+    transform: scale(0.97, 0.97);
+  }
 }
 
 @media (max-width: 800px) {
