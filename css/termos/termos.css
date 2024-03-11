@@ -1,0 +1,15 @@
+.termos {
+  padding: 120px 0;
+}
+
+.termos h2 {
+  margin: 50px 0 20px 0;
+}
+
+.termos h2:first-child {
+  margin: 0 0 20px 0;
+}
+
+.termos p + p {
+  margin-top: 24px;
+}
