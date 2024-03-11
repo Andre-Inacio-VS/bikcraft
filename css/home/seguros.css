@@ -28,18 +28,18 @@
 }
 
 .seguros-item:hover > .btn {
-  animation: pulse-btn infinite 1s linear;
+  animation: pulse-btn infinite 3s linear;
 }
 
 @keyframes pulse-btn {
   0% {
-    scale: 1;
+    transform: scale(1, 1);
   }
   50% {
-    scale: 1.05;
+    transform: scale(1.09, 1.09);
   }
   100% {
-    scale: 1;
+    transform: scale(1, 1);
   }
 }
 
