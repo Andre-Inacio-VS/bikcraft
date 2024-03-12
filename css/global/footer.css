@@ -57,6 +57,12 @@
     margin-top: 40px;
 }
 
+.informacoes-nav {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+}
+
 @media (max-width: 800px) {
     .footer > img {
         display: none;
