@@ -1,13 +1,18 @@
 .termos {
-  padding: 120px 0;
+  padding: 80px 20px;
 }
 
 .termos h2 {
-  margin: 50px 0 20px 0;
+  font-weight: 600;
+  margin-bottom: 20px;
 }
 
-.termos h2:first-child {
-  margin: 0 0 20px 0;
+.termos p + h2 {
+  margin-top: 50px;
+}
+
+.termos p {
+  max-width: 75ch;
 }
 
 .termos p + p {
