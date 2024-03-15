@@ -76,7 +76,7 @@
 }
 
 .contato-redes a {
-    animation: slide-down 400ms var(--delay) ease-in 1;
+    animation: slide-up-down 400ms var(--delay) ease-in 1;
 }
 
 .contato-formulario {
@@ -84,7 +84,7 @@
     border-radius: 0 5px 5px 0;
 }
 
-@keyframes slide-down {
+@keyframes slide-up-down {
     0% {
         transform: translateY(0);
     }
