@@ -92,6 +92,10 @@
   padding: 60px 0;
 }
 
+.title {
+  background: url("../../img/dec/top-right.svg") no-repeat top right 20px;
+}
+
 .title p {
   margin-bottom: 4px;
   text-transform: uppercase;
@@ -106,5 +110,4 @@
     text-transform: lowercase;
     font-weight: 400;
   }
-  
 }

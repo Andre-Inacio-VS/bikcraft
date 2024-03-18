@@ -1,0 +1,209 @@
+[33mcommit 37b8f84df358129e31c555120b59f5ce138f99c3[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Andre-Inacio-VS <andreinaciovs@gmail.com>
+Date:   Fri Mar 15 19:14:52 2024 -0300
+
+    feat (orcamento - part final): termino do responsivo e ajuste de formatacao
+
+[33mcommit be29f3dee39265339bcc6b4fe9bcd7f370ea42e1[m
+Author: Andre-Inacio-VS <andreinaciovs@gmail.com>
+Date:   Fri Mar 15 19:13:49 2024 -0300
+
+    fix (bicicleta): retirando classe desnecessaria
+
+[33mcommit 2694e9613b804291aef0463672afb6922b9c1763[m
+Author: andre.silva <ANDRE.SILVA@PROTENDIT.COM.BR>
+Date:   Fri Mar 15 15:02:37 2024 -0300
+
+    feat (orcamento - part 1): criacao da pagina de orcamento e metade da resposividade
+
+[33mcommit 0046c1cea6d3a3cbd9d52d030d1e96f2fa676417[m
+Author: andre.silva <ANDRE.SILVA@PROTENDIT.COM.BR>
+Date:   Thu Mar 14 14:45:44 2024 -0300
+
+    feat (contato): criacao da pagina de contato
+
+[33mcommit 2e9e45555f029d7313e05dd1f0586a6434bd38a4[m
+Author: andre.silva <ANDRE.SILVA@PROTENDIT.COM.BR>
+Date:   Thu Mar 14 08:14:09 2024 -0300
+
+    fix (global): alterando tag errada do title
+
+[33mcommit 095cc516de7d334c59b98fa96e459125c65eb970[m
+Author: Andre-Inacio-VS <andreinaciovs@gmail.com>
+Date:   Wed Mar 13 21:22:43 2024 -0300
+
+    fix (global): alterando precificacoes
+
+[33mcommit 2375b22bb533f04bdab24ecd909e43a5e6bfb597[m
+Author: Andre-Inacio-VS <andreinaciovs@gmail.com>
+Date:   Wed Mar 13 21:16:58 2024 -0300
+
+    feat (bicicleta): criado paginas de compra de cada bicicleta
+
+[33mcommit a245cb766c5a852cd1c023a73779ed8b036780e0[m
+Author: andre.silva <ANDRE.SILVA@PROTENDIT.COM.BR>
+Date:   Wed Mar 13 15:00:39 2024 -0300
+
+    feat (seguro): inicio da sessao de seguros
+
+[33mcommit 38cc66433d092558fa069efa2c783ff08a976e35[m
+Author: andre.silva <ANDRE.SILVA@PROTENDIT.COM.BR>
+Date:   Wed Mar 13 14:49:56 2024 -0300
+
+    feat (biciccletas/nimbus): criando sessao da bicicleta e da lista de outras bicicletas
+
+[33mcommit 9c1e540387f3e86e83576b4e5d2612bb4713edc4[m
+Author: andre.silva <ANDRE.SILVA@PROTENDIT.COM.BR>
+Date:   Wed Mar 13 11:51:48 2024 -0300
+
+    feat (seguros): criando a pagina de seguros
+
+[33mcommit 19f80fe0b4fa30c9870d9c1389666d419bc3b1ce[m
+Author: andre.silva <ANDRE.SILVA@PROTENDIT.COM.BR>
+Date:   Wed Mar 13 11:15:41 2024 -0300
+
+    refac (html): comentando sessoes dos arquivos html
+
+[33mcommit bcc449423a96da90cb80622d0e38c840c6dd2a96[m
+Author: andre.silva <ANDRE.SILVA@PROTENDIT.COM.BR>
+Date:   Wed Mar 13 11:11:43 2024 -0300
+
+    feat (seguros): criando a pagina de seguros
+
+[33mcommit 6a2096870892c77355369859e288b8feb6150292[m
+Author: andre.silva <ANDRE.SILVA@PROTENDIT.COM.BR>
+Date:   Wed Mar 13 10:06:38 2024 -0300
+
+    feat (bicicletas): criacao da pagina de bicicletas
+
+[33mcommit 81cbdc6ea0605c16fbf57a7839c0ed041d4e2498[m
+Author: andre.silva <ANDRE.SILVA@PROTENDIT.COM.BR>
+Date:   Wed Mar 13 10:06:06 2024 -0300
+
+    fix (termos): ajuste de tag do title
+
+[33mcommit aac70d05558536a14eaac9f86c510666e39d46b4[m
+Author: andre.silva <ANDRE.SILVA@PROTENDIT.COM.BR>
+Date:   Tue Mar 12 14:32:47 2024 -0300
+
+    fix (componentes): corrigindo padding errado no title
+
+[33mcommit fca0bc78e079bade9a91f517dcf4e62d039bba56[m
+Author: andre.silva <ANDRE.SILVA@PROTENDIT.COM.BR>
+Date:   Tue Mar 12 14:28:48 2024 -0300
+
+    style (footers): ajustando espacamento das informacoes
+
+[33mcommit 582ca8cf508bec5eade1144285489eea0e2a5996[m
+Author: andre.silva <ANDRE.SILVA@PROTENDIT.COM.BR>
+Date:   Tue Mar 12 14:20:18 2024 -0300
+
+    fix (termos): resolvendo conflitos de estilos e ajustando a tipografia
+
+[33mcommit 124c84ad92e80ea6b6062a42f6c6849de26689f7[m
+Author: Andre-Inacio-VS <andreinaciovs@gmail.com>
+Date:   Mon Mar 11 18:35:48 2024 -0300
+
+    feat (termos): criando pagina de termos de uso
+
+[33mcommit 1113d035200d73b8556092b6e929aa41d96cacc6[m
+Author: Andre-Inacio-VS <andreinaciovs@gmail.com>
+Date:   Mon Mar 11 17:54:48 2024 -0300
+
+    fix (seguros): alterando metodo da animacao
+
+[33mcommit d28351a941d2ac01ae7cab8b2c20eef34f3aa4ee[m
+Author: Andre-Inacio-VS <andreinaciovs@gmail.com>
+Date:   Mon Mar 11 17:13:54 2024 -0300
+
+    style (seguros): adicionando animacao de pulsar no botao ao posicionar o mouse em cima do card
+
+[33mcommit 0cb3e91a7ed35f80c0d82ffa221e0a54a2f153f1[m
+Author: andre.silva <ANDRE.SILVA@PROTENDIT.COM.BR>
+Date:   Mon Mar 11 15:00:48 2024 -0300
+
+    feat (footer): criacao do footer da PAGINA
+
+[33mcommit 3cb587d179d20ffed96f3a204f3ba579909b763d[m
+Author: andre.silva <ANDRE.SILVA@PROTENDIT.COM.BR>
+Date:   Mon Mar 11 14:01:01 2024 -0300
+
+    feat (seguros): craicao do article de seguros
+
+[33mcommit 0cfba40cfdd633ac18cbde2da5de61f041d5f8a6[m
+Author: andre.silva <ANDRE.SILVA@PROTENDIT.COM.BR>
+Date:   Mon Mar 11 14:00:14 2024 -0300
+
+    feat (components): adicionando componente de botao secundario
+
+[33mcommit 564367bc6276478ebe0fb69622d73bca8aea2ce7[m
+Author: andre.silva <ANDRE.SILVA@PROTENDIT.COM.BR>
+Date:   Mon Mar 11 11:29:19 2024 -0300
+
+    feat (depoimento): criando section de depoimento
+
+[33mcommit 496764efd5edba062e1ce6840105187eb9a19685[m
+Author: andre.silva <ANDRE.SILVA@PROTENDIT.COM.BR>
+Date:   Mon Mar 11 11:28:49 2024 -0300
+
+    fix (parceiros): ajustando responsivo do grid
+
+[33mcommit 9edc4843eba0183cbed88d04f06d64e147bcee24[m
+Author: andre.silva <ANDRE.SILVA@PROTENDIT.COM.BR>
+Date:   Mon Mar 11 09:57:33 2024 -0300
+
+    feat (parceiros): criando a section parceiros
+
+[33mcommit ccf36f75404d587393b0d98388b186cfcd43186b[m
+Author: andre.silva <ANDRE.SILVA@PROTENDIT.COM.BR>
+Date:   Mon Mar 11 08:33:11 2024 -0300
+
+    fix (global): corrigindo erro de importacao das fontes Poppins e Roboto
+
+[33mcommit a025ed36b6e38cb22b76733aa5f51d26b75c3878[m
+Author: Andre-Inacio-VS <andreinaciovs@gmail.com>
+Date:   Sat Mar 9 16:54:31 2024 -0300
+
+    feat (tecnologia): criando o article da pagina de tecnologia
+
+[33mcommit da9c3073808a5450e8a449a506c622a4c85f344c[m
+Author: Andre-Inacio-VS <andreinaciovs@gmail.com>
+Date:   Sat Mar 9 14:33:38 2024 -0300
+
+    fix (global): tirando comentarios esquecidos
+
+[33mcommit 0df504e0f3e223580f8c7ec1366ad4ebba304ef1[m
+Author: Andre-Inacio-VS <andreinaciovs@gmail.com>
+Date:   Sat Mar 9 14:17:42 2024 -0300
+
+    feat (global): componentizando classe container para fazer a limitacao dos conteudos da pagina
+
+[33mcommit fa8450bf60f5736651fdabcf72d013a37a70c852[m
+Author: Andre-Inacio-VS <andreinaciovs@gmail.com>
+Date:   Sat Mar 9 14:12:09 2024 -0300
+
+    feat (bicicletas-lista): criacao do article de lista de bicicletas
+
+[33mcommit 1c0a374304a389e24e43e0e3d183a6ac2c9814d7[m
+Author: Andre-Inacio-VS <andreinaciovs@gmail.com>
+Date:   Fri Mar 8 19:44:44 2024 -0300
+
+    style (introducao): estilizando a tela de introducao e setando variaveis e classes utilitarias dos componentes
+
+[33mcommit c142245e55343cb61f2b9034880eb0a1d0d89392[m
+Author: Andre-Inacio-VS <andreinaciovs@gmail.com>
+Date:   Fri Mar 8 16:09:27 2024 -0300
+
+    feat (introducao): criando layout de introducao
+
+[33mcommit 2cacae21dc83eaef7aac53785de08b4d63232347[m
+Author: Andre-Inacio-VS <andreinaciovs@gmail.com>
+Date:   Thu Feb 29 19:49:22 2024 -0300
+
+    feat (home): Criacao do header da  pagina
+
+[33mcommit 209f68b79624e0e6a1fa10108b4c3507a6521c0c[m
+Author: Andre-Inacio-VS <andreinaciovs@gmail.com>
+Date:   Thu Feb 29 18:07:22 2024 -0300
+
+    commit inicial

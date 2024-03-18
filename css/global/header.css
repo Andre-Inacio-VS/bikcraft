@@ -38,6 +38,9 @@
 }
 
 @media (max-width: 800px) {
+  .header {
+    padding: 20px !important;
+  }
   .header-menu {
     gap: 20px;
   }
@@ -57,7 +60,18 @@
   }
 }
 
+@media (max-width: 600px) {
+  .header {
+    display: grid;
+    grid-template-columns: 1fr;
+    place-items: center;
+  }
+}
+
 @media (max-width: 400px) {
+  .header {
+    justify-content: center;
+  }
   .header-menu {
     gap: 12px;
   }
