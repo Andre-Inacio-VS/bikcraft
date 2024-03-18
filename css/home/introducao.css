@@ -50,11 +50,4 @@
   .introducao h1 {
     margin-bottom: 16px;
   }
-
-  .introducao img {
-    width: 100%;
-    height: 300px;
-    content: url(../../img/bicicleta/nimbus1.jpg);
-    object-fit: cover;
-  }
 }
