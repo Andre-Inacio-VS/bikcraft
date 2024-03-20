@@ -47,12 +47,15 @@
     transform: rotate(180deg);
 }
 
-.perguntas dd.active {
+.js .perguntas dd {
+    display: none;
+}
+
+.js .perguntas dd.active {
     display: block;
 }
 
 .perguntas dd {
-    display: none;
     padding: 16px 20px 0 20px;
     max-width: 75ch;
 }
